@@ -1,0 +1,50 @@
+# Byte-compiled / cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Distribution / packaging
+build/
+dist/
+*.egg-info/
+*.egg
+
+# Virtual environments
+venv/
+.venv/
+env/
+ENV/
+
+# Environment / secrets
+.env
+.env.*
+
+# Testing / coverage
+.pytest_cache/
+.coverage
+.coverage.*
+htmlcov/
+.tox/
+.mypy_cache/
+.ruff_cache/
+
+# IDE / editor
+.vscode/
+.idea/
+*.swp
+
+# OS cruft
+.DS_Store
+Thumbs.db
+
+# LibreOffice/Office lock files
+.~lock.*#
+
+# Logs
+*.log
+
+# Submission bundle (duplicate copy, not source)
+ITEPA3-33 Practical Assignment Pretoria MD.2022.G4C7J5/
+ITEPA3-33 Practical Assignment Pretoria MD.2022.G4C7J5.pdf
+ITEPA3-33 Practical Assignment Pretoria MD.2022.G4C7J5.zip
+docs/ITEPA3-33 Practical Assignment Pretoria MD.2022.G4C7J5.pdf
